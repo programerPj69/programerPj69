@@ -13,6 +13,7 @@ Currently working as a JavaScript Developer.
 - HTML, 
 - CSS,
 - Javascript,
+- Rust,
 - Kotlin ,
 - SQL ,
 - C++ ,
