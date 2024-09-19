@@ -27,7 +27,7 @@ Corently working as a JavaScript Developer In
 - MongoDB.
 
 
-![Logo]([https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png](https://miro.medium.com/v2/resize:fit:800/1*wcEYa9AjnMZxXAau2iuhYw.png))
+![Logo]([https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png)
 
 
 
