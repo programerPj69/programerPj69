@@ -3,11 +3,12 @@
 
 
 ## 🚀 About Me
-I'm a 21 year old ...     
-I'm a full stack developer...                    
-I'm a web developer.....           
-I'm a app developer....
-Currently working as a JavaScript Developer.
+Hi im Rajkamal Singh Coder since 4year also
+```Software Engineer```
+```Fullstack Developer```
+```Ethical hacker```
+```Application Developer```
+in at the age of 21 :)
 
 ## 🛠 Skills
 - HTML, 
@@ -19,7 +20,7 @@ Currently working as a JavaScript Developer.
 - C++ ,
 - java , 
 - Python ,
-- fullter,
+- flutter,
 - React ,
 - Nodejs,
 - Nextjs,
@@ -32,9 +33,12 @@ Currently working as a JavaScript Developer.
 
 
 ## 😊😊😊
-👩‍💻 I'm currently working on full stack Project.....
-
-🧠And Also  learning Flutter.....
+- Learn Programming Language 
+- DSA,OOPS
+- Build project
+- Prectice
+- Repeate
+  
 
 
 
