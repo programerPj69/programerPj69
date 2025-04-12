@@ -3,11 +3,12 @@
 
 
 ## 🚀 About Me
-Hi im Rajkamal Singh Coder since 4year also
+Hi im Rajkamal Singh Coder since 6year also
 ```Software Engineer```
 ```Fullstack Developer```
 ```Ethical hacker```
 ```Application Developer```
+```MERN STACK Developer ```
 in at the age of 21 :)
 
 ## 🛠 Skills
@@ -38,6 +39,7 @@ in at the age of 21 :)
 - Build project
 - Prectice
 - Repeate
+  
   
 
 
